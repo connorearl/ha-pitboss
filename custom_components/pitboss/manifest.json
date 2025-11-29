@@ -7,7 +7,7 @@
       "local_name": "LBL-*"
     },
     {
-      "connectable": false,
+      "connectable": true,
       "local_name": "LFS-*"
     },
     {
